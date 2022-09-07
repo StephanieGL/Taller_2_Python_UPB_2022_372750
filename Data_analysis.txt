@@ -1,0 +1,29 @@
+
+
+
+
+
+ Stephanie Gonzalez Lopez  - 06/09/2022 - 22:20:10
+
+
+Datos obtenidos:
+
+
+               ENERO    FEBRERO      MARZO     ABRIL       MAYO      JUNIO      JULIO      AGOSTO   SEPTIEMBRE  OCTUBRE   NOVIEMBRE   DICIEMBRE
+Ventas       27200500.0 - 27012500.0 - 30552600.0 - 35129000.0 - 28236000.0 - 31368600.0 - 34837700.0 - 27727600.0 - 30742400.0 - 34526800.0 - 30868900.0 - 34062000.0
+Gastos       16245388.0 - 12828273.0 - 10564879.0 - 12202464.0 - 12613112.0 - 12002297.0 - 12709600.0 - 13483899.0 - 15385074.0 - 16942889.0 - 13495265.0 - 13551400.0
+Utilidad     10955112.0 - 14184227.0 - 19987721.0 - 22926536.0 - 15622888.0 - 19366303.0 - 22128100.0 - 14243701.0 - 15357326.0 - 17583911.0 - 17373635.0 - 20510600.0
+
+
+Ventas: el mes con mas ventas fue July con $1974500.0 . El mes con menos ventas fue Feb con $200800.0
+
+Gastos: el mes con mas gastos fue Feb con $994838.0 . El mes con menos gastos fue Oct con $12096.0
+
+Utilidad: el mes con mas utilidad fue 1850807.0 con $1850807.0 . El mes con menos ventas fue Feb con $-794038.0
+
+Total (Anual): Para las ventas el total fue: $372264600.0. Para los gastos el total fue: $162024540.0. Para las utilidades el total fue: $210240060.0.
+
+Promedio (mensual): Para las ventas el promedio fue: $31022050. Para los gastos el promedio fue: $13502045. Para las utilidades el promedio fue: $17520005. 
+
+Desviación estandar (mensual): Para las ventas la desviacion fue $165494609. Para los gastos la desviacion fue $72038767. 
+
