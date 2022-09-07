@@ -3,13 +3,13 @@
 
 
 
- Stephanie Gonzalez Lopez  - 06/09/2022 - 22:20:10
+ Stephanie Gonzalez Lopez  - 06/09/2022 - 22:35:32
 
 
 Datos obtenidos:
 
 
-               ENERO    FEBRERO      MARZO     ABRIL       MAYO      JUNIO      JULIO      AGOSTO   SEPTIEMBRE  OCTUBRE   NOVIEMBRE   DICIEMBRE
+               January    February      March     April       May      June      July      August   September  Octuber   November   December
 Ventas       27200500.0 - 27012500.0 - 30552600.0 - 35129000.0 - 28236000.0 - 31368600.0 - 34837700.0 - 27727600.0 - 30742400.0 - 34526800.0 - 30868900.0 - 34062000.0
 Gastos       16245388.0 - 12828273.0 - 10564879.0 - 12202464.0 - 12613112.0 - 12002297.0 - 12709600.0 - 13483899.0 - 15385074.0 - 16942889.0 - 13495265.0 - 13551400.0
 Utilidad     10955112.0 - 14184227.0 - 19987721.0 - 22926536.0 - 15622888.0 - 19366303.0 - 22128100.0 - 14243701.0 - 15357326.0 - 17583911.0 - 17373635.0 - 20510600.0
